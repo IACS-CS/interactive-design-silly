@@ -1,0 +1,15 @@
+#tictactoe {
+	display: grid;
+	grid-template-columns: 3;
+	grid-template-rows: 3;
+}
+
+.attribution {
+	background-color: aqua;
+}
+
+#dragon {
+  background-color: lightblue;
+  position: absolute;
+  cursor: grab; 
+}
